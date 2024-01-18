@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Uploading Black Green Tech Programmer Presentation.png…]()
+![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/maorkrispel/Downloads/Black%2520Green%2520Tech%2520Programmer%2520Presentation.png?version%253D1705584971052)
 
 
 
