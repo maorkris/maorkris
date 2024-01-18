@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/maorkrispel/Downloads/Black%2520Green%2520Tech%2520Programmer%2520Presentation.png?version%253D1705584971052)
+![Black Green Tech Programmer Presentation](https://github.com/maorkris/maorkris/assets/142143890/6f1bc7c3-5c76-496c-97df-3728c21b3e67)
 
 
 
