@@ -5,7 +5,7 @@
 
 
 
-[![linkedin.com/in/maor-krispel](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maor-krispel/)
 [![Gmail Logo](https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png)](mailto:maorkris@gmail.com)
 
 
