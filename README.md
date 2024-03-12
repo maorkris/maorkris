@@ -1,6 +1,6 @@
+![git](https://github.com/maorkris/maorkris/assets/142143890/607372d0-d43d-4bde-ab47-c2e120caf43b)
 
 
-![Black Green Tech Programmer Presentation](https://github.com/maorkris/maorkris/assets/142143890/6f1bc7c3-5c76-496c-97df-3728c21b3e67)
 
 
 
